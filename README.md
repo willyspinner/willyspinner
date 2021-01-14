@@ -1,8 +1,8 @@
 ### Hi there, I'm Wilson 👋
 
-Currently a senior studying CS at UCLA, graduating June 2020. I'll be joining [instabase](https://instabase.com) as a software engineer afterwards!
+Currently a senior studying CS at UCLA, graduating June 2021. 
 
-Interested in distributed systems, full-stack development & ML. 
+I'm Interested in distributed systems, full-stack development & ML. Specific fields include OCR technology (Computer Vision & Deep Learning based), Language-learning platforms, enterprise software, and more.
 
 Email me at wilsonjusuf1998@gmail.com if you'd like to chat!
 <!--
