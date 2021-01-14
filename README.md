@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Wilson 👋
 
+Currently a senior studying CS at UCLA, graduating June 2020. I'll be joining [instabase](https://instabase.com) as a software engineer afterwards!
+
+Interested in distributed systems, full-stack development & ML. 
+
+Email me at wilsonjusuf1998@gmail.com if you'd like to chat!
 <!--
 **willyspinner/willyspinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
