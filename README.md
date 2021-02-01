@@ -2,7 +2,7 @@
 
 Currently a senior studying CS at UCLA, graduating June 2021. 
 
-I'm Interested in distributed systems, full-stack development & ML. Specific fields include OCR technology (Computer Vision & Deep Learning based), Language-learning platforms, enterprise software, and more.
+I'm Interested in distributed systems, full-stack development & ML. Specific fields include NLP, OCR technology (Computer Vision & Deep Learning based), Language-learning platforms, enterprise software, and more.
 
 Email me at wilsonjusuf1998@gmail.com if you'd like to chat!
 <!--
