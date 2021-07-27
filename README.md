@@ -1,6 +1,6 @@
 ### Hi there, I'm Wilson 👋
 
-Currently a senior studying CS at UCLA, graduating June 2021. 
+Software engineer at Instabase. 2021 UCLA alum.
 
 I'm Interested in distributed systems, full-stack development & ML. Specific fields include NLP, OCR technology (Computer Vision & Deep Learning based), Language-learning platforms, enterprise software, and more.
 
